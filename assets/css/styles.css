@@ -37,3 +37,10 @@
 .card h5{
     color: #ffffff;
 }
+
+.contenedor-iconos{
+    width: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
