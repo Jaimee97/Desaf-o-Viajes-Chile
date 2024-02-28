@@ -21,3 +21,15 @@
 .quienes-somos-section i{
     color: #ffffff;
 }
+
+.card-img-top{
+    height: 200px;
+}
+
+.card p{
+    color: #ffffff;
+}
+
+.card h5{
+    color: #ffffff;
+}
