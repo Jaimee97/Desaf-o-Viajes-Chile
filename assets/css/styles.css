@@ -4,7 +4,9 @@
 }
 
 .navbar{
-    background-color: #229ca7;
+    background-color: transparent;
+    z-index: 1;
+    width: 100vw;
 }
 
 .navbar a{
